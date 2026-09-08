@@ -1,0 +1,22 @@
+COMO EDITAR LAS PROMOCIONES DE GEMIS (SIN TOCAR index.html)
+
+1. En esta carpeta encontrarás promo1.jpg, promo2.jpg y promo3.jpg.
+2. Para cambiar una imagen, reemplaza el archivo por tu nueva imagen conservando exactamente el mismo nombre.
+   Ejemplo: reemplaza promo1.jpg por otra foto, pero deja el nombre promo1.jpg.
+3. Para cambiar el texto de una promoción, abre promociones.txt.
+4. Cada promoción ocupa una sola línea con este formato:
+   imagen.jpg|TITULO|DESCRIPCION|BOTON|ENLACE
+5. Ejemplo:
+   promo1.jpg|30% DE DESCUENTO|En todos nuestros aretes.|Comprar ahora|#catalogo
+6. Para agregar otra promoción, agrega una nueva línea y sube la imagen correspondiente.
+   Ejemplo:
+   promo4.jpg|40% DE DESCUENTO|En collares seleccionados.|Ver oferta|#catalogo
+   Luego sube promo4.jpg a esta misma carpeta.
+7. Puedes tener tantas promociones como quieras. El carrusel las mostrará automáticamente.
+8. Las promociones cambian solas cada 5 segundos y también tienen flechas y puntos para cambiar manualmente.
+9. No necesitas modificar index.html.
+10. Después de guardar cambios en GitHub Pages, espera unos minutos y recarga la página.
+
+CONSEJO:
+- Mantén los nombres de las imágenes sencillos: promo1.jpg, promo2.jpg, promo3.jpg...
+- Para eliminar una promoción, elimina su línea de promociones.txt. Si ya no se usa su imagen, también puedes eliminarla.
