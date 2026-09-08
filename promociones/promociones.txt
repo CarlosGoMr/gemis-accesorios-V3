@@ -1,5 +1,5 @@
 # Formato: imagen.jpg|título|descripción|texto del botón|enlace
 # Puedes agregar o quitar líneas. NO necesitas modificar index.html.
-promo1.jpg|PROMOCIÓN GEMIS|Aquí podrás publicar tu primer descuento u oferta especial.|Ver catálogo|#catalogo
+promo1.jpg|AMOR Y AMISTAD|10% de descuento en nuestros aretes para esa persona especial.|Ver catálogo|#catalogo
 promo2.jpg|OFERTA ESPECIAL|Cambia este texto por la promoción que quieras anunciar.|Comprar ahora|#catalogo
 promo3.jpg|DESCUENTO DE HOY|Actualiza esta promoción cuando tengas una nueva oferta.|Ver accesorios|#catalogo
